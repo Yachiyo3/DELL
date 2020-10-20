@@ -5,6 +5,7 @@ import com.qf.domain.Contact;
 import java.util.List;
 
 public interface ContactService {
+    //查询所有
     // 查询所有
     List<Contact> queryAll();
 
